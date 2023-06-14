@@ -1,8 +1,11 @@
-import './App.css'
+import './App.css';
 import {Routes,Route} from "react-router-dom";
+import About from './components/About';
 import Home from './components/Home';
-import About from '.components/About';
 import Sidebar from './components/Sidebar';
+import Skills from './components/Skills';
+import Resume from './components/Resume';
+import MyWork from './components/MyWork';
 
 function App() {
   return (
@@ -11,7 +14,6 @@ function App() {
         
         <Sidebar></Sidebar>
         <Routes>
- 
           <Route path="/" element={ <Home/> } exact></Route>
           <Route path="/about" element={<About/>}></Route>
           <Route path="/skills" element={<Skills/>}></Route>
