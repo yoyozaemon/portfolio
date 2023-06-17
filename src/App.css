@@ -1,8 +1,29 @@
+/* 
+    Color Scheme:
+    Get your favourite theme here: https://colorhunt.co/ and change all occurrences of below colors
+    
+        #1A1A2E Black
+        #16213E Dark Blue
+        #0F3460 Blue
+        #E94560 Red 
+
+    Fonts:
+    https://fonts.google.com/
+
+    go to google fonts and select one regular and one bold font and replpace the import url
+    change font-family in 
+        html, body
+        ff-jose
+        font-big
+
+*/
+
+
 @import url('https://fonts.googleapis.com/css2?family=Jost&family=Quicksand&display=swap');
 
 html, body{
     margin: 0;
-    font-family: 'Quicksand', sans-serif;	
+    font-family: 'Quicksand', sans-serif;
     background-color: #16213E;
     color: white;
 }
@@ -121,7 +142,24 @@ html, body{
     letter-spacing: 2px; 
  }
 
+/* ===================== Skills ===================== */
+.mw-fc {
+  max-width: fit-content;
+}
 
+/* ===================== Resume ===================== */
+li::marker {
+    color: #E94560;
+    font-size: 2em;
+}
+.blue-label{
+    background-color: #0F3460;
+    width: max-content;
+}
+.zoom-on-hover:hover {
+    transition: transform 0.2s;
+    transform: scale(1.1);
+}
 
 /* ===================== Portfolio ===================== */
 
