@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import {SiJavascript,SiNodedotjs,SiReact,SiHtml5,SiCss3,SiBootstrap,SiPython,SiMongodb,SiExpress,SiC,SiRust,SiJava,SiDocker} from 'react-icons/si'
+import {SiJavascript,SiNodedotjs,SiReact,SiHtml5,SiCss3,SiBootstrap,SiPython,SiMongodb,SiExpress,SiC,SiRust,SiDocker} from 'react-icons/si'
 function Skills() {
   return (
     <Fragment>
@@ -54,10 +54,6 @@ function Skills() {
                                  
                                 <div className='mx-2 my-3 border rounded py-1 px-2 mw-fc'>
                                     <span><SiRust className='fs-4'/> Rust</span>
-                                </div>
-                                
-                                <div className='mx-2 my-3 border rounded py-1 px-2 mw-fc'>
-                                    <span><SiJava className='fs-4 '/> Java</span>
                                 </div>
                 
                                 <div className='mx-2 my-3 border rounded py-1 px-2 mw-fc'>
