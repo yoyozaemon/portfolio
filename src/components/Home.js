@@ -13,7 +13,7 @@ function Home() {
                   <div>
                     <h1 className="m-0 font-big slide-in-top">Hi,</h1>
                     <h1 className="m-0 font-big animate-charcter">I'm Vijay,</h1>
-                    <p className="ls-2 mt-2 slide-in-bottom">Lazy Developer</p>
+                    <p className="ls-2 mt-2 slide-in-bottom">Student, Front End Developer.</p>
                   </div>
                 </div>
 
