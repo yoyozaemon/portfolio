@@ -39,10 +39,10 @@ function MyWork() {
                                 <span className="visually-hidden">Next</span>
                             </button>
                         </div>
-                            <h5 className="ff-jose my-1">Weather App</h5>
+                            <h5 className="ff-jose my-1">Jordan Landing Page</h5>
                             <div className="row d-flex justify-content-center">
                                 <a href="" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><BsLaptop/> Watch Live</a>
-                                <a href="https://github.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Source Code</a>
+                                <a href="https://github.com/yoyozaemon/Jordan-Landing-Page" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Source Code</a>
                             </div>
 
                     </div>
@@ -70,10 +70,10 @@ function MyWork() {
                             </button>
                         </div>
                         <div>
-                            <h5 className="ff-jose my-1">Movie Browser</h5>
+                            <h5 className="ff-jose my-1">Gym Website</h5>
                             <div className="row d-flex justify-content-center">
                                 <a href="" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><BsLaptop/> Watch Live</a>
-                                <a href="https://github.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Source Code</a>
+                                <a href="https://github.com/yoyozaemon/gym-website" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Source Code</a>
                             </div>
                         </div>
                         
